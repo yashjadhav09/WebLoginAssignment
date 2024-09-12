@@ -81,16 +81,16 @@ This login page is designed to work on modern web browsers including:
 To deploy this project:
 1. Push the code to a GitHub repository.
 2. Enable GitHub Pages in the repository settings.
-3. Your project will be live at `https://your-username.github.io/professional-login-page`
+3. Your project will be live at `https://github.com/yashjadhav09/WebLoginAssignment`
 
 
 ## License
-This project is [Eclipse](https://choosealicense.com/licenses/EclipsePublicLicense2.0/) licensed.
+None.
 
 ## Contact
 Yash Pramod Jadhav - ypjadhav09@gmail.com
 
-Project Link: [https://github.com/your-username/professional-login-page](https://github.com/your-username/professional-login-page)
+Project Link: [https://github.com/yashjadhav09/WebLoginAssignment]([https://github.com/your-username/professional-login-page](https://github.com/yashjadhav09/WebLoginAssignment))
 
 ## Acknowledgements
 - [Font Awesome](https://fontawesome.com)
