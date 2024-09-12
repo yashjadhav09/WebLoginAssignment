@@ -28,18 +28,6 @@ This project is a responsive, feature-rich login page implemented using HTML, CS
 
 ### Installation
  Clone this repository or download the source code from this Link: [https://github.com/yashjadhav09/WebLoginAssignment](https://github.com/yashjadhav09/WebLoginAssignment))
-   
-
-
-### Project Structure
-
-```bash
-.
-├── index.html       # Main HTML file
-├── style.css        # CSS for styling the page
-├── script.js        # JavaScript for validation and API call
-└── README.md        # This README file
-```
 
 ### Running the Application
 1. Open the `index.html` file in your web browser.
