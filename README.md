@@ -77,12 +77,6 @@ This login page is designed to work on modern web browsers including:
 - Remember me checkbox
 - Loading spinner during the API call
 
-## Deployment
-To deploy this project:
-1. Push the code to a GitHub repository.
-2. Enable GitHub Pages in the repository settings.
-3. Your project will be live at [https://github.com/yashjadhav09/WebLoginAssignment/](https://yashjadhav09.github.io/WebLoginAssignment/)
-
 
 ## License
 None.
@@ -91,6 +85,8 @@ None.
 Yash Pramod Jadhav - ypjadhav09@gmail.com
 
 Project Link: [https://github.com/yashjadhav09/WebLoginAssignment](https://github.com/yashjadhav09/WebLoginAssignment))
+
+project live demo: [https://github.com/yashjadhav09/WebLoginAssignment/](https://yashjadhav09.github.io/WebLoginAssignment/)
 
 ## Acknowledgements
 - [Font Awesome](https://fontawesome.com)
