@@ -15,9 +15,9 @@ This project is a responsive, feature-rich login page implemented using HTML, CS
 
 ## Technologies Used
 - HTML5
-- CSS3
-- JavaScript (ES6+)
-- Font Awesome 6.1.1 for icons
+- CSS
+- JavaScript 
+- Font Awesome for icons
 - JSONPlaceholder for API simulation
 
 ## Setup and Usage
@@ -28,8 +28,9 @@ This project is a responsive, feature-rich login page implemented using HTML, CS
 
 ### Installation
 1. Clone this repository or download the source code.
-
-2. Navigate to the project directory.
+    Project Link: [https://github.com/yashjadhav09/WebLoginAssignment](https://github.com/yashjadhav09/WebLoginAssignment))
+   
+3. Navigate to the project directory.
 
 ### Project Structure
 
