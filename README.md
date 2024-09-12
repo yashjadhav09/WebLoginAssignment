@@ -81,7 +81,7 @@ This login page is designed to work on modern web browsers including:
 To deploy this project:
 1. Push the code to a GitHub repository.
 2. Enable GitHub Pages in the repository settings.
-3. Your project will be live at `https://github.com/yashjadhav09/WebLoginAssignment`
+3. Your project will be live at `(https://yashjadhav09.github.io/WebLoginAssignment/)`
 
 
 ## License
