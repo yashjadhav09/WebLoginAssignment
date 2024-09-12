@@ -90,7 +90,7 @@ None.
 ## Contact
 Yash Pramod Jadhav - ypjadhav09@gmail.com
 
-Project Link: [https://github.com/yashjadhav09/WebLoginAssignment]([https://github.com/your-username/professional-login-page](https://github.com/yashjadhav09/WebLoginAssignment))
+Project Link: [https://github.com/yashjadhav09/WebLoginAssignment](https://github.com/yashjadhav09/WebLoginAssignment))
 
 ## Acknowledgements
 - [Font Awesome](https://fontawesome.com)
