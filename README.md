@@ -27,10 +27,9 @@ This project is a responsive, feature-rich login page implemented using HTML, CS
 - Internet connection (for loading Font Awesome icons and API simulation)
 
 ### Installation
-1. Clone this repository or download the source code.
-    Project Link: [https://github.com/yashjadhav09/WebLoginAssignment](https://github.com/yashjadhav09/WebLoginAssignment))
+ Clone this repository or download the source code from this Link: [https://github.com/yashjadhav09/WebLoginAssignment](https://github.com/yashjadhav09/WebLoginAssignment))
    
-3. Navigate to the project directory.
+
 
 ### Project Structure
 
